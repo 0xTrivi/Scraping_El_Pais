@@ -1,0 +1,1 @@
+Links = $x('//h2[@class="c_t "]/a/@href').map(x => x.value)
